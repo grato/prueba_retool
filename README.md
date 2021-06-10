@@ -2,7 +2,7 @@
 
 Como hemos mencionado la idea la prueba es ver como te manejas con retool, SQL y los datos en general. A la vez tu puedes ver como podría ser parte de tu día a día.
 
-La idea es que a lo largo de unos 3 días realicéis la prueba lo mejor que podáis. Si en cualquier momento llevas atascados mucho rato en una cosa que no os permite avanzar no hay problema en preguntarnos, al ser herramientas nuevas es normal que pueda pasar.
+La idea es que a lo largo de unos 3 días (teniendo en cuenta que solo podeis dedicarle unas horas al día, no son 3 días completos) realicéis la prueba lo mejor que podáis. Si en cualquier momento llevas atascados mucho rato en una cosa que no os permite avanzar no hay problema en preguntarnos, al ser herramientas nuevas es normal que pueda pasar.
 
 ### Preparativos
 
