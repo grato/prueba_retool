@@ -30,14 +30,16 @@ En cada envío van varios materiales. Es importante saber en cada salida de fáb
 1. Pensar que información es necesaria para la aplicación y crear en la base de datos las tablas necesarias con sus campos necesarios. (Es normal que añadas campos luego a medida que vayas viendo que los necesitas)
 2. Crear una interfaz para añadir envíos con su información necesaria.
 3. Crear una interfaz para ver los envíos que hay.
-4. Crear una intefaz para añadir el material que va en un envío.
-5. Crear una interfaz para ver el material de envío.
-6. Finalmente crear un dashboard simple con unas métricas y gráficos sencillos que veas que puedan ser interesantes. (Recomendamos utilizar los componentes "Chart" y "Statistic".)
+
+6. Finalmente crear un dashboard simple con unas *pocas* métricas y gráficos sencillos que veas que puedan ser interesantes. (Recomendamos utilizar los componentes "Chart" y "Statistic".)
 
 Para la funcionalidad práctica de las aplicaciones en una empresa es importante la UX. Por lo que se valora muy positivamente integrar las interfaces de los puntos anteriores de tal manera que sea más fácil de utilizar por el usuario final.
 
 
-BONUS:
+Extra:
+Estas partes son más complicadas, te recomendamos que lo intentes una vez terminado, pero no es necesario, 
+4. Crear una intefaz para añadir el material que va en un envío.
+5. Crear una interfaz para ver el material de envío.
 - Poder editar la información de los envíos y material del envío una vez ya han sido rellenados y guardados en la base de datos.
 
 
