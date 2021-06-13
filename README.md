@@ -36,10 +36,10 @@ En cada envío van varios materiales. Es importante saber en cada salida de fáb
 Para la funcionalidad práctica de las aplicaciones en una empresa es importante la UX. Por lo que se valora muy positivamente integrar las interfaces de los puntos anteriores de tal manera que sea más fácil de utilizar por el usuario final.
 
 
-Extra:
+#### Extra:
 Estas partes son más complicadas, te recomendamos que lo intentes una vez terminado, pero no es necesario, 
-4. Crear una intefaz para añadir el material que va en un envío.
-5. Crear una interfaz para ver el material de envío.
+- 4. Crear una intefaz para añadir el material que va en un envío.
+- 5. Crear una interfaz para ver el material de envío.
 - Poder editar la información de los envíos y material del envío una vez ya han sido rellenados y guardados en la base de datos.
 
 
